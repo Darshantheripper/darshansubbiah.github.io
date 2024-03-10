@@ -1,0 +1,4 @@
+.raise:hover,
+.raise:focus {
+  transform: translateY(-0.25em);
+}
